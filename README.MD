@@ -12,13 +12,13 @@ Here below list some of my works, both casual and professional ones. Hope it hel
 
 | app                     | lang        | os          | genre     | opensource |
 | ----------------------- | ----------- | ----------- | --------- | ---------- |
-| Video Compressor        | swift       | iOS         | utility   |            |
-| Easy Dictionary         | swift       | iOS + macOS | education |            |
-| 英漢字典                | swift       | iOS         | education |            |
-| 同音字典                | swift       | iOS + macOS | education |            |
-| ZERO Turn Base Strategy | swift       |             | game      |            |
+| Video Compressor        | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | utility   |            |
+| Easy Dictionary         | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS + macOS | education |            |
+| 英漢字典                | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | education |            |
+| 同音字典                | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS + macOS | education |            |
+| ZERO Turn Base Strategy | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       |             | game      |            |
 | 認識佛教                | objective c | iOS < v10   | education | link       |
-| 好孩子小莉              | swift       | iOS         | education | link       |
+| 好孩子小莉              | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | education | link       |
 
 - see all recent published iOS / macOS app [here](https://apps.apple.com/hk/developer/fbm/id371152397)
 
@@ -30,7 +30,7 @@ Here below list some of my works, both casual and professional ones. Hope it hel
 | -------------------------------------------------------------- | ------ | ------------------------------------------------ |
 | [Personalize CangJie IME](https://github.com/hoishing/cangjie) |  ![python](https://api.iconify.design/logos/python.svg?width=20) | generate custom char set for 倉頡 IME in Windows |
 |selenium web crawler | ![python](https://api.iconify.design/logos/python.svg?width=20) | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
-| Google Playbook annotation extractor | <img src='https://api.iconify.design/logos/python.svg?width=20' style='vertical-align:-2rem'>| extract annotation from playbook |
+| Google Playbook annotation extractor | <img src='https://api.iconify.design/logos/python.svg?width=20' style='vertical-align:-0.25rem'>| extract annotation from playbook |
 | speech to clipboard| ![js](https://api.iconify.design/logos/javascript.svg?width=20) | quick and easy speech synthesis web app |
 
 
