@@ -10,6 +10,8 @@ Here listed some of my works, both professional and casual ones. Hope it helps c
 
 ## Mobile Apps
 
+- see all recent published iOS / macOS app [here](https://apps.apple.com/hk/developer/fbm/id371152397)
+
 | app                                                                                                                    | lang                                                          | os                                                                                                                   | category  | source code |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | [Video Compressor](https://apps.apple.com/hk/app/video-compressor/id482465886)                                         | ![swift](https://api.iconify.design/logos/swift.svg?width=20) | iOS                                                                                                                  | utility   |             |
@@ -20,18 +22,16 @@ Here listed some of my works, both professional and casual ones. Hope it helps c
 | [認識佛教](https://apps.apple.com/hk/app/%E8%AA%8D%E8%AD%98%E4%BD%9B%E6%95%99-%E6%9C%89%E8%81%B2%E6%9B%B8/id389971161) | objective-c                                                   | iOS < v10                                                                                                            | education | link        |
 | 好孩子小莉                                                                                                             | ![swift](https://api.iconify.design/logos/swift.svg?width=20) | iOS                                                                                                                  | education | link        |
 
-- see all recent published iOS / macOS app [here](https://apps.apple.com/hk/developer/fbm/id371152397)
-
 ## Open Source Projects
 
 ### Utilities
 
-| app                                                            | lang                                                            | desc                                                                      |
-| -------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Personalize CangJie IME](https://github.com/hoishing/cangjie) | ![python](https://api.iconify.design/logos/python.svg?width=20) | generate custom char set for 倉頡 IME in Windows                          |
-| selenium web crawler                                           | ![python](https://api.iconify.design/logos/python.svg?width=20) | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
-| Google Playbook annotation extractor                           | ![python](https://api.iconify.design/logos/python.svg?width=20) | extract playbook annotation into dict                                     |
-| speech to clipboard                                            | ![js](https://api.iconify.design/logos/javascript.svg?width=20) | quick and easy speech synthesis web app                                   |
+| app                                                                                                                                                                                         | lang                                                            | desc                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Personalize CangJie IME](https://github.com/hoishing/cangjie) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb) | ![python](https://api.iconify.design/logos/python.svg?width=20) | generate custom char set for 倉頡 IME in Windows                          |
+| selenium web crawler                                                                                                                                                                        | ![python](https://api.iconify.design/logos/python.svg?width=20) | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
+| Google Playbook annotation extractor                                                                                                                                                        | ![python](https://api.iconify.design/logos/python.svg?width=20) | extract playbook annotation into dict                                     |
+| speech to clipboard                                                                                                                                                                         | ![js](https://api.iconify.design/logos/javascript.svg?width=20) | quick and easy speech synthesis web app                                   |
 
 
 ### Chrome Extensions
