@@ -1,12 +1,12 @@
 # 👋 Hi~ Kelvin's Speaking 📣
 
-I love coding, writing program is an enlightening✨ creation process. No matter frontend, backend, mobile apps, task automation, machine learning, algo trading... I like them all.
+I love coding, to me it's an enlightening✨ process. No matter frontend, backend, apps, task automation, data mining, machine learning, algo trading... I like them all.
 
-I make my living mainly by creating [iOS apps][ios-apps], occasionally I do take freelance jobs. However, I spend quite a considerable amount of time(if not the most 😆) trying out new tech / methodology / frameworks. It's quite a hobby of mine, but I normally did it in private without mentioning it, no matter whether that piece of tech is interesting or not.
+I make my living mainly by creating [iOS apps][ios-apps], and occasionally take some freelance web / app dev jobs. However, I spend quite a considerable amount of time(if not the most 😆) trying out new tech / methodology / frameworks. It's quite a hobby of mine, but I normally did it in private without mentioning it, no matter whether that piece of tech is interesting or not.
 
 One day, I saw my beloved Taiwan IT minister [Audrey Tang](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) recommended a [work out loud](https://youtu.be/XpjNl3Z10uc) methodology. I'm convinced.
 
-So here I list and opensource some of my works and toy projects, hope it helps connecting us 🌐
+So here I list and opensource some of my works and toy projects, may the universe connecting us 🌐
 
 ## Mobile Apps
 
@@ -56,7 +56,7 @@ So here I list and opensource some of my works and toy projects, hope it helps c
 | [Google GData iOS static lib][gdata-lib] |          obj-c          | iOS static library of Google Data APIs                          |
 | [Ruby Static Site Generator][ruby-ssg]   |      ![ruby][ruby]      | a simple SSG for 認識佛教 website                               |
 
-## contact
+## More...
 
 - [twitter ![][twitter]][tw-shing]
 - [blog ![][jekyll]][blog-shing]
