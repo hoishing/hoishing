@@ -58,8 +58,8 @@ So here I list and opensource some of my works and toy projects, hope it helps c
 
 ## contact
 
-- twitter ![twitter][twitter]
-- blog https://hoishing.github.io
+- [twitter ![][twitter]][tw-shing]
+- [blog ![][jekyll]][blog-shing]
 
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -69,6 +69,7 @@ So here I list and opensource some of my works and toy projects, hope it helps c
 [coffee]: https://api.iconify.design/logos/coffeescript.svg?width=20
 [jupyter]: https://api.iconify.design/logos/jupyter.svg?width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
+[jekyll]: https://api.iconify.design/logos/jekyll.svg?width=60
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
@@ -90,3 +91,5 @@ So here I list and opensource some of my works and toy projects, hope it helps c
 [pb2md]: https://github.com/hoishing/playbook2md
 [gdata-lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [ruby-ssg]: https://github.com/hoishing/ruby-SSG
+[tw-shing]: https://twitter.com/hoishing
+[blog-shing]: https://hoishing.github.io
