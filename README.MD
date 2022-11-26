@@ -30,7 +30,7 @@ Here below list some of my works, both casual and professional ones. Hope it hel
 | -------------------------------------------------------------- | ------ | ------------------------------------------------ |
 | [Personalize CangJie IME](https://github.com/hoishing/cangjie) |  ![python](https://api.iconify.design/logos/python.svg?width=20) | generate custom char set for 倉頡 IME in Windows |
 |selenium web crawler | ![python](https://api.iconify.design/logos/python.svg?width=20) | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
-| Google Playbook annotation extractor | <img src='https://api.iconify.design/logos/python.svg?width=20' style='vertical-align:-0.25rem'>| extract annotation from playbook |
+| Google Playbook annotation extractor | <img src='https://api.iconify.design/logos/python.svg?width=20' style='vertical-align:-2rem'>| extract annotation from playbook |
 | speech to clipboard| ![js](https://api.iconify.design/logos/javascript.svg?width=20) | quick and easy speech synthesis web app |
 
 
