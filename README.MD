@@ -10,15 +10,15 @@ Here below list some of my works, both casual and professional ones. Hope it hel
 
 ## Mobile Apps
 
-| app                     | lang        | os          | genre     | opensource |
-| ----------------------- | ----------- | ----------- | --------- | ---------- |
-| Video Compressor        | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | utility   |            |
-| Easy Dictionary         | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS + macOS | education |            |
-| 英漢字典                | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | education |            |
-| 同音字典                | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS + macOS | education |            |
-| ZERO Turn Base Strategy | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       |             | game      |            |
-| 認識佛教                | objective c | iOS < v10   | education | link       |
-| 好孩子小莉              | ![swift](https://api.iconify.design/logos/swift.svg?width=20)       | iOS         | education | link       |
+| app                                                                                                                    | lang        | os                                                                                                                   | category  | source code |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| [Video Compressor](https://apps.apple.com/hk/app/video-compressor/id482465886)                                         | swift       | iOS                                                                                                                  | utility   |             |
+| [Easy Dictionary](https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271)      | swift       | iOS + [macOS](https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id1242356475?mt=12) | education |             |
+| [英漢字典](https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394)                     | swift       | iOS                                                                                                                  | education |             |
+| [同音字典](https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098)                             | swift       | iOS + [macOS](https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8-chinese-helper/id946346429?mt=12)   | education |             |
+| [ZERO](https://apps.apple.com/hk/app/zero-tbs/id1399856976) Turn Base Strategy                                         | swift       | iOS                                                                                                                  | game      | link        |
+| [認識佛教](https://apps.apple.com/hk/app/%E8%AA%8D%E8%AD%98%E4%BD%9B%E6%95%99-%E6%9C%89%E8%81%B2%E6%9B%B8/id389971161) | objective-c | iOS < v10                                                                                                            | education | link        |
+| 好孩子小莉                                                                                                             | swift       | iOS                                                                                                                  | education | link        |
 
 - see all recent published iOS / macOS app [here](https://apps.apple.com/hk/developer/fbm/id371152397)
 
@@ -28,14 +28,11 @@ Here below list some of my works, both casual and professional ones. Hope it hel
 
 | app                                                            | lang   | desc                                             |
 | -------------------------------------------------------------- | ------ | ------------------------------------------------ |
-| [Personalize CangJie IME](https://github.com/hoishing/cangjie) |  ![python](https://api.iconify.design/logos/python.svg?width=20) | generate custom char set for 倉頡 IME in Windows |
-|selenium web crawler | ![python](https://api.iconify.design/logos/python.svg?width=20) | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
-| Google Playbook annotation extractor | <img src='https://api.iconify.design/logos/python.svg?width=20' style='vertical-align:-0.25rem'>| extract annotation from playbook |
-| speech to clipboard| ![js](https://api.iconify.design/logos/javascript.svg?width=20) | quick and easy speech synthesis web app |
+| [Personalize CangJie IME](https://github.com/hoishing/cangjie) |  python | generate custom char set for 倉頡 IME in Windows |
+|selenium web crawler | python | crawl a web page with [selenium](https://selenium-python.readthedocs.io/) |
+| Google Playbook annotation extractor |python | extract playbook annotation into dict|
+| speech to clipboard| js| quick and easy speech synthesis web app |
 
-
-
-- js: 
 
 ## Chrome Extensions
 
