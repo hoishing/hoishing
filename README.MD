@@ -26,13 +26,13 @@ So here I list and opensource some of my works and toy projects, hope it helps c
 
 ### Utilities
 
-| app                                        |        lang         | description                                                                                         |
-|:------------------------------------------ |:-------------------:|:--------------------------------------------------------------------------------------------------- |
-| [Personalize CangJie IME][cangjie]         | ![jupyter][jupyter] | generate custom char set for 倉頡 IME in Windows  [![][binder]][cangjie-ipynb]                      |
-| selenium web crawler                       |       ![][py]       | crawl a web page with Selenium                                                                      |
-| [Google Playbook Annotations to MD][pb2md] | ![jupyter][jupyter] | convert playbook annotations(highlights and custom notes) to markdown files [![][binder]][pb-ipynb] | 
-| speech to clipboard                        |       ![][js]       | quick and easy speech synthesis web app                                                             |
-| [Markdown to Dash Docset][md2dash]         |       ![][py]       | convert md to HTML files that can be used for generating Dash docset                                |
+| app                                        |          lang / run          | description                                                                 |
+|:------------------------------------------ |:----------------------------:|:--------------------------------------------------------------------------- |
+| [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
+| selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
+| [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
+| speech to clipboard                        |           ![][js]            | quick and easy speech synthesis web app                                     |
+| [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset        |
 
 ### Chrome Extensions
 
