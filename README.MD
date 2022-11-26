@@ -4,12 +4,15 @@ Here listed some my works
 
 ## Mobile Apps
 
-- swift: Video Compressor
-- swift: Easy Dictionary
-- swift: 同音字典
-- swift: Zero Turn Base Strategy
-- objective c: 認識佛教
-- swift: 好孩子小莉
+| app                     | lang        | os          | genre     | opensource |
+| ----------------------- | ----------- | ----------- | --------- | ---------- |
+| Video Compressor        | swift       | iOS         | utility   |            |
+| Easy Dictionary         | swift       | iOS + macOS | education |            |
+| 同音字典                | swift       | iOS + macOS | education |            |
+| ZERO Turn Base Strategy | swift       |             | game      |            |
+| 認識佛教                | objective c | iOS < v10   | education | link       |
+| 好孩子小莉              | swift       | iOS         | education | link       |
+
 
 # Open Source Projects
 
