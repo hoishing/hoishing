@@ -12,15 +12,15 @@ So here I list and opensource some of my works and toy projects, may the univers
 
 - see all recent published iOS / macOS app [here][ios-apps]
 
-| app                                  |    lang    | os                           | category  | source code |
-|:------------------------------------ |:----------:| ---------------------------- | --------- | ----------- |
-| [Video Compressor][Video Compressor] | ![][swift] | iOS                          | utility   |             |
-| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + [macOS][mac-easy-dict] | education |             |
-| [英漢字典][英漢字典]                 | ![][swift] | iOS                          | education |             |
-| [同音字典][同音字典]                 | ![][swift] | iOS + [macOS][mac-homophone] | education |             |
-| [ZERO][ZERO] Turn Base Strategy      | ![][swift] | iOS                          | game      | link        |
-| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10                    | education | link        |
-| 好孩子小莉                           | ![][swift] | iOS                          | education | link        |
+| app                                  |    lang    | os                           | category  |
+|:------------------------------------ |:----------:| ---------------------------- | --------- |
+| [Video Compressor][Video Compressor] | ![][swift] | iOS                          | utility   |
+| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + [macOS][mac-easy-dict] | education |
+| [英漢字典][英漢字典]                 | ![][swift] | iOS                          | education |
+| [同音字典][同音字典]                 | ![][swift] | iOS + [macOS][mac-homophone] | education |
+| [ZERO][ZERO] Turn Base Strategy      | ![][swift] | iOS                          | game      |
+| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10                    | education |
+| 好孩子小莉                           | ![][swift] | iOS                          | education |
 
 ## Open Source Projects
 
