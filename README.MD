@@ -6,7 +6,7 @@ I make my living mainly by creating [iOS apps][ios-apps], and occasionally take 
 
 One day, I saw my beloved Taiwan IT minister [Audrey Tang](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) recommended a [work out loud](https://youtu.be/XpjNl3Z10uc) methodology. I'm convinced.
 
-So here I list and opensource some of my works and toy projects, may the universe connecting us 🌐
+So here I listed some of my works and projects and open-sourced them on [github](https://github.com/hoishing). May the universe connect us 😉
 
 ## Mobile Apps
 
