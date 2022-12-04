@@ -1,6 +1,6 @@
 # 👋 Hi~ Kelvin's Speaking 📣
 
-I love coding, to me it's an enlightening✨ process. No matter frontend, backend, apps, task automation, data mining, machine learning, algo trading... I like them all.
+I love coding 🧑‍💻. It's an enlightening✨ process to me. No matter frontend, backend, mobile apps, task automation, data mining, machine learning, algo trading... I like them all.
 
 I make my living mainly by creating [iOS apps][ios-apps], and occasionally take some freelance web / mobile dev jobs. However, I spend quite a considerable amount of time(if not the most 😆) trying out new tech / methodology / frameworks. It's quite a hobby of mine, but I normally did it in private without mentioning it, no matter whether that piece of tech is interesting or not.
 
