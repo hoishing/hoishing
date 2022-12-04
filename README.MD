@@ -58,8 +58,8 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 ## More...
 
-- [twitter ![][twitter]][tw-shing]
-- [blog ![][jekyll]][blog-shing]
+- [![][twitter] - twitter][tw-shing]
+- [![][docusaurus] - blog][blog-shing]
 
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -67,9 +67,8 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [ruby]: https://api.iconify.design/logos/ruby.svg?width=20
 [coffee]: https://api.iconify.design/logos/coffeescript.svg?width=20
-[jupyter]: https://api.iconify.design/logos/jupyter.svg?width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
-[jekyll]: https://api.iconify.design/logos/jekyll.svg?width=60
+[docusaurus]: https://api.iconify.design/logos/docusaurus.svg?width=20
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
