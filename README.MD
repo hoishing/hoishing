@@ -31,7 +31,7 @@ So here I listed some of my works and projects and open-sourced them on [github]
 | [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
 | selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
 | [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
-| speech to clipboard                        |           ![][js]            | quick and easy speech synthesis web app                                     |
+| [Voice Recognition][voice-recog]           |           ![][js]            | quick and easy speech synthesis web app                                     |
 | [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset        |
 
 ### Chrome Extensions
@@ -92,3 +92,4 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [ruby-ssg]: https://github.com/hoishing/ruby-SSG
 [tw-shing]: https://twitter.com/hoishing
 [blog-shing]: https://hoishing.github.io
+[voice-recog]: https://github.com/hoishing/voice-recog
