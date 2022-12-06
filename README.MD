@@ -12,15 +12,14 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 - see all recent published iOS / macOS app [here][ios-apps]
 
-| app                                  |    lang    | os          | category  | source code       |
-|:------------------------------------ |:----------:| ----------- | --------- | ----------------- |
-| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility   |                   |
-| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education |                   |
-| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education |                   |
-| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education |                   |
-| [ZERO][ZERO] Turn-Base-Strategy      | ![][swift] | iOS + macOS | game      | [repo][zero-game] | 
-| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education |                   |
-| 好孩子小莉                           | ![][swift] | iOS         | education |                   |
+| app                                  |    lang    | os          | category  |           repo           |
+|:------------------------------------ |:----------:| ----------- | --------- |:------------------------:|
+| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility   |                          |
+| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education |                          |
+| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education |                          |
+| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education |                          |
+| [ZERO][ZERO] Turn-Base-Strategy      | ![][swift] | iOS + macOS | game      |   [github] [zero-game]   |
+| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education | [github] [buddhism-objc] | 
 
 ## Open Source Projects
 
@@ -66,9 +65,10 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [ruby]: https://api.iconify.design/logos/ruby.svg?width=20
-[coffee]: https://api.iconify.design/logos/coffeescript.svg?width=20
+[coffee]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
 [docusaurus]: https://api.iconify.design/logos/docusaurus.svg?width=20
+[gh]: https://api.iconify.design/ri/github-fill.svg?color=%23e950c1&width=26
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
@@ -94,3 +94,4 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [blog-shing]: https://hoishing.github.io
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
+[buddhism-objc]: https://github.com/hoishing/buddhism-objc
