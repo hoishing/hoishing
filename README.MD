@@ -25,8 +25,8 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 ### web app
 
-| app                              |                                        dev stack                                         | description                                                     |
-|:-------------------------------- |:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------- |
+| app                              |                                            tech stack                                             | description                                                     |
+|:-------------------------------- |:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------- |
 | [Voice Recognition][voice-recog] | [![pwa][pwa-logo]][pwa] + [![alpine.js][alpine-logo]][alpine] + [![unocss][uno-logo]][uno] | quick and easy speech synthesis [PWA][pwa] in multiple language |
 
 
@@ -42,7 +42,7 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 | app                                        |          lang / run          | description                                                                 |
 |:------------------------------------------ |:----------------------------:|:--------------------------------------------------------------------------- |
-| [Icon Resize CLI][icon-reisze]             |           ![][py]            | CLI to create lossless icons in multiple sizes                              |
+| [Icon Resize CLI][icon-resize]             |           ![][py]            | CLI to create lossless icons in multiple sizes                              |
 | [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
 | selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
 | [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
