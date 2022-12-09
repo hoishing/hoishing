@@ -25,9 +25,9 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 ### web app
 
-| app                              |                      dev stack                       | description                                                     |
-|:-------------------------------- |:----------------------------------------------------:|:--------------------------------------------------------------- |
-| [Voice Recognition][voice-recog] | ![][js] + [![][alpine-logo]][alpine] + [unocss][uno] | quick and easy speech synthesis [PWA][pwa] in multiple language |
+| app                              |                                        dev stack                                         | description                                                     |
+|:-------------------------------- |:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------- |
+| [Voice Recognition][voice-recog] | [![pwa][pwa-logo]][pwa] + [![alpine.js][alpine-logo]][alpine] + [![unocss][uno-logo]][uno] | quick and easy speech synthesis [PWA][pwa] in multiple language |
 
 
   ### Chrome Extensions
@@ -105,6 +105,8 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [icon-resize]: https://github.com/hoishing/icon-resize-cli
 [buddhism-site]: https://hoishing.github.io/ruby-SSG/index_zh.htm
 [uno]: https://github.com/unocss/unocss
+[uno-logo]: https://api.iconify.design/logos/unocss.svg?height=20
 [alpine]: https://alpinejs.dev
 [alpine-logo]: https://api.iconify.design/logos/alpinejs.svg?height=20
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+[pwa-logo]: https://api.iconify.design/logos/pwa.svg?height=20
