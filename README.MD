@@ -12,34 +12,41 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 - see all recent published iOS / macOS app [here][ios-apps]
 
-| app                                  |    lang    | os          | category  |           repo           |
-|:------------------------------------ |:----------:| ----------- | --------- |:------------------------:|
-| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility   |                          |
-| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education |                          |
-| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education |                          |
-| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education |                          |
-| [ZERO][ZERO] Turn-Base-Strategy      | ![][swift] | iOS + macOS | game      |   [github] [zero-game]   |
-| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education | [github] [buddhism-objc] | 
+| app                                  |    lang    | os          | category  |       source code       |
+|:------------------------------------ |:----------:| ----------- | --------- |:-----------------------:|
+| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility   |                         | 
+| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education |                         |
+| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education |                         |
+| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education |                         |
+| [ZERO][ZERO] Turn-Base-Strategy      | ![][swift] | iOS + macOS | game      |   [github][zero-game]   |
+| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education | [github][buddhism-objc] |
 
 ## Open Source Projects
 
-### Utilities
+### web app
 
-| app                                        |          lang / run          | description                                                                 |
-|:------------------------------------------ |:----------------------------:|:--------------------------------------------------------------------------- |
-| [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
-| selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
-| [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
-| [Voice Recognition][voice-recog]           |           ![][js]            | quick and easy speech synthesis web app                                     |
-| [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset        |
+| app                              |                      dev stack                       | description                                                     |
+|:-------------------------------- |:----------------------------------------------------:|:--------------------------------------------------------------- |
+| [Voice Recognition][voice-recog] | ![][js] + [![][alpine-logo]][alpine] + [unocss][uno] | quick and easy speech synthesis [PWA][pwa] in multiple language |
 
-### Chrome Extensions
+
+  ### Chrome Extensions
 
 | extension                                    |  lang   | description                                                                    |
 |:-------------------------------------------- |:-------:|:------------------------------------------------------------------------------ |
 | [mini authenticator][mini-auth]              | ![][ts] | minimal 2FA authenticator that never store your secret keys                    |
 | multilingual search                          | ![][ts] | instance language change for google voice search                               |
 | [Chrome ext creation template][crx-template] | ![][ts] | chrome ext template packed w/ vite, CRXJS, react, tailwind, iconify and more.. | 
+
+### Utilities
+
+| app                                        |          lang / run          | description                                                                 |
+|:------------------------------------------ |:----------------------------:|:--------------------------------------------------------------------------- |
+| [Icon Resize CLI][icon-reisze]             |           ![][py]            | CLI to create lossless icons in multiple sizes                              |
+| [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
+| selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
+| [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
+| [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset        |
 
 ### NPM Packages
 
@@ -51,9 +58,9 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 | project                                  |          lang           | description                                                     |
 |:---------------------------------------- |:-----------------------:|:--------------------------------------------------------------- |
-| [Atom Cell Navigation][cell-nav]         | ![coffeescript][coffee] | Atom editor extension for fast navigating between jupyter cells | 
+| [Atom Cell Navigation][cell-nav]         | ![coffeescript][coffee] | Atom editor extension for fast navigating between jupyter cells |
 | [Google GData iOS static lib][gdata-lib] |          obj-c          | iOS static library of Google Data APIs                          |
-| [Ruby Static Site Generator][ruby-ssg]   |      ![ruby][ruby]      | a simple SSG for 認識佛教 website                               |
+| [Ruby Static Site Generator][ruby-ssg]   |      ![ruby][ruby]      | a simple SSG for [認識佛教 website][buddhism-site]              | 
 
 ## More...
 
@@ -95,3 +102,9 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
+[icon-resize]: https://github.com/hoishing/icon-resize-cli
+[buddhism-site]: https://hoishing.github.io/ruby-SSG/index_zh.htm
+[uno]: https://github.com/unocss/unocss
+[alpine]: https://alpinejs.dev
+[alpine-logo]: https://api.iconify.design/logos/alpinejs.svg?height=20
+[pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
