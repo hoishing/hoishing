@@ -25,9 +25,9 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 ### web app
 
-| app                              |                                            tech stack                                             | description                                                     |
-|:-------------------------------- |:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------- |
-| [Voice Recognition][voice-recog] | [![pwa][pwa-logo]][pwa] + [![alpine.js][alpine-logo]][alpine] + [![unocss][uno-logo]][uno] | quick and easy speech synthesis [PWA][pwa] in multiple language |
+| app                               |                    tech stack                    | description                                                                                |
+|:--------------------------------- |:------------------------------------------------:|:------------------------------------------------------------------------------------------ |
+| [Speech Recognition][voice-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API in multiple languages | 
 
 
   ### Chrome Extensions
