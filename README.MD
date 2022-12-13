@@ -2,11 +2,13 @@
 
 I love coding 🧑‍💻. It's an enlightening✨ process to me. No matter frontend, backend, mobile apps, task automation, data mining, machine learning, algo trading... I like them all.
 
-I make my living mainly by creating [iOS apps][ios-apps], and occasionally take some freelance web / mobile dev jobs. However, I spend quite a considerable amount of time(if not the most 😆) trying out new tech / methodology / frameworks. It's quite a hobby of mine, but I normally did it in private without mentioning it, no matter whether that piece of tech is interesting or not.
+I make my living mainly by creating [iOS apps][ios-apps], and occasionally take some freelance web / mobile dev. However, I spend quite a considerable amount of time(if not the most 😆) trying out new tech / methodologies / frameworks. It's quite a hobby of mine, but I normally did it in private without mentioning it, no matter that piece of tech is interesting or not.
 
 One day, I saw my beloved Taiwan IT minister [Audrey Tang](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) recommended a [work out loud](https://youtu.be/XpjNl3Z10uc) methodology. I'm convinced.
 
-So here I listed some of my works and projects and open-sourced them on [github](https://github.com/hoishing). May the universe connect us 😉
+So in response I listed some of my works and toy projects here, open-sourced them on [github](https://github.com/hoishing), and wrote an intro for each project to discuss the motivation and tech that I've chosen. It shows what I am working on, why I did that, and the technical choices that I've made when solving specific problems. Hope u find them interesting. 
+
+May the universe connect us 😉
 
 ## Mobile Apps
 
@@ -21,23 +23,20 @@ So here I listed some of my works and projects and open-sourced them on [github]
 | [ZERO][ZERO]                         | ![][swift] | iOS + macOS | strategy game |   [![][git-logo]][zero-game]   |
 | [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education     | [![][git-logo]][buddhism-objc] |
 
-## Open Source Projects
-
-### web app
+## web app
 
 | app                               |                    tech stack                    | description                                                                                        |
 |:--------------------------------- |:------------------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | [Speech Recognition][voice-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API 🚀 [launch app][launch-recog] | 
 
-### Chrome Extensions
+## Chrome Extensions
 
 | extension                                    |  lang   | description                                                                    |
 |:-------------------------------------------- |:-------:|:------------------------------------------------------------------------------ |
 | [mini authenticator][mini-auth]              | ![][ts] | minimal 2FA authenticator that never store your secret keys                    |
-| multilingual search                          | ![][ts] | instance language change for google voice search                               |
 | [Chrome ext creation template][crx-template] | ![][ts] | chrome ext template packed w/ vite, CRXJS, react, tailwind, iconify and more.. | 
 
-### Utilities
+## Utilities
 
 | app                                        |          lang / run          | description                                                                           |
 |:------------------------------------------ |:----------------------------:|:------------------------------------------------------------------------------------- |
@@ -47,24 +46,24 @@ So here I listed some of my works and projects and open-sourced them on [github]
 | [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files           |
 | [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset                  |
 
-### NPM Packages
+## NPM Packages
 
 | packages                    |  lang   | description                            |
 |:--------------------------- |:-------:|:-------------------------------------- |
 | [TOTP Generator][totp-auth] | ![][ts] | time-based one-time-password generator |
 
-### legacy projects
+## Legacy Projects
 
-| project                                  |          lang           | description                                                     |
-|:---------------------------------------- |:-----------------------:|:--------------------------------------------------------------- |
-| [Atom Cell Navigation][cell-nav]         | ![coffeescript][coffee] | Atom editor extension for fast navigating between jupyter cells |
-| [Google GData iOS static lib][gdata-lib] |          obj-c          | iOS static library of Google Data APIs                          |
-| [Ruby Static Site Generator][ruby-ssg]   |      ![ruby][ruby]      | a simple SSG for [認識佛教 website][buddhism-site]              | 
+| project                                |          lang           | description                                                     |
+|:-------------------------------------- |:-----------------------:|:--------------------------------------------------------------- |
+| [Atom Cell Navigation][cell-nav]       | ![coffeescript][coffee] | Atom editor extension for fast navigating between jupyter cells |
+| [GData iOS Static lib][gdata-lib]      |          obj-c          | iOS static library of Google Data APIs                          |
+| [Ruby Static Site Generator][ruby-ssg] |      ![ruby][ruby]      | a simple SSG for [認識佛教 website][buddhism-site]              |
 
-## More...
+## More?
 
-- [![][twitter] - twitter][tw-shing]
-- [![][docusaurus] - blog][blog-shing]
+- [![][twitter] - ping me on twitter][tw-shing]
+- [![][docusaurus] - my blog][blog-shing]
 
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -97,7 +96,7 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [gdata-lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [ruby-ssg]: https://github.com/hoishing/ruby-SSG
 [tw-shing]: https://twitter.com/hoishing
-[blog-shing]: https://hoishing.github.io
+[blog-shing]: https://hoishing.github.io/blog
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
