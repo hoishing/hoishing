@@ -12,25 +12,24 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 - see all recent published iOS / macOS app [here][ios-apps]
 
-| app                                  |    lang    | os          | category  |       source code       |
-|:------------------------------------ |:----------:| ----------- | --------- |:-----------------------:|
-| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility   |                         | 
-| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education |                         |
-| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education |                         |
-| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education |                         |
-| [ZERO][ZERO] Turn-Base-Strategy      | ![][swift] | iOS + macOS | game      |   [github][zero-game]   |
-| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education | [github][buddhism-objc] |
+| app                                  |    lang    | os          | category      |             source             |
+|:------------------------------------ |:----------:| ----------- | ------------- |:------------------------------:|
+| [Video Compressor][Video Compressor] | ![][swift] | iOS         | utility       |                                |
+| [Easy Dictionary][Easy Dictionary]   | ![][swift] | iOS + macOS | education     |                                |
+| [英漢字典][英漢字典]                 | ![][swift] | iOS         | education     |                                |
+| [同音字典][同音字典]                 | ![][swift] | iOS + macOS | education     |                                |
+| [ZERO][ZERO]                         | ![][swift] | iOS + macOS | strategy game |   [![][git-logo]][zero-game]   |
+| [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education     | [![][git-logo]][buddhism-objc] |
 
 ## Open Source Projects
 
 ### web app
 
-| app                               |                    tech stack                    | description                                                                                |
-|:--------------------------------- |:------------------------------------------------:|:------------------------------------------------------------------------------------------ |
-| [Speech Recognition][voice-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API in multiple languages | 
+| app                               |                    tech stack                    | description                                                                                        |
+|:--------------------------------- |:------------------------------------------------:|:-------------------------------------------------------------------------------------------------- |
+| [Speech Recognition][voice-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API 🚀 [launch app][launch-recog] | 
 
-
-  ### Chrome Extensions
+### Chrome Extensions
 
 | extension                                    |  lang   | description                                                                    |
 |:-------------------------------------------- |:-------:|:------------------------------------------------------------------------------ |
@@ -40,13 +39,13 @@ So here I listed some of my works and projects and open-sourced them on [github]
 
 ### Utilities
 
-| app                                        |          lang / run          | description                                                                 |
-|:------------------------------------------ |:----------------------------:|:--------------------------------------------------------------------------- |
-| [Icon Resize CLI][icon-resize]             |           ![][py]            | CLI to create lossless icons in multiple sizes                              |
-| [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                            |
-| selenium web crawler                       |           ![][py]            | crawl a web page with Selenium                                              |
-| [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
-| [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset        |
+| app                                        |          lang / run          | description                                                                           |
+|:------------------------------------------ |:----------------------------:|:------------------------------------------------------------------------------------- |
+| [Icon Resize CLI][icon-resize]             |           ![][py]            | CLI to create lossless icons in multiple sizes                                        |
+| [Personalize CangJie IME][cangjie]         | [![][binder]][cangjie-ipynb] | generate custom char set for 倉頡 IME in Windows                                      |
+| [Selenium Crawler][selenium-crawler]       |           ![][py]            | web crawler by [Selenium][selenium], captcha resolved by [Tesseract OCR][pytesseract] |
+| [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files           |
+| [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset                  |
 
 ### NPM Packages
 
@@ -105,8 +104,11 @@ So here I listed some of my works and projects and open-sourced them on [github]
 [icon-resize]: https://github.com/hoishing/icon-resize-cli
 [buddhism-site]: https://hoishing.github.io/ruby-SSG/index_zh.htm
 [uno]: https://github.com/unocss/unocss
-[uno-logo]: https://api.iconify.design/logos/unocss.svg?height=20
 [alpine]: https://alpinejs.dev
-[alpine-logo]: https://api.iconify.design/logos/alpinejs.svg?height=20
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
-[pwa-logo]: https://api.iconify.design/logos/pwa.svg?height=20
+[launch-recog]: https://hoishing.github.io/speech-recog
+[git-logo]: https://api.iconify.design/bi/github.svg?width=20
+[pytesseract]: https://github.com/madmaze/pytesseract
+[selenium]: https://selenium-python.readthedocs.io
+[selenium-crawler]: https://github.com/hoishing/selenium-crawler
+
