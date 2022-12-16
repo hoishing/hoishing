@@ -6,7 +6,7 @@ I make my living mainly by creating [iOS apps][ios-apps], and occasionally take 
 
 One day, I saw my beloved Taiwan IT minister [Audrey Tang](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) recommended a [work out loud](https://youtu.be/XpjNl3Z10uc) methodology. I'm convinced.
 
-So in response I listed some of my works and toy projects here, open-sourced them on [github](https://github.com/hoishing), and wrote an intro for each project to discuss the motivation and tech that I've chosen. It shows what I am working on, why I did that, and the technical choices that I've made when solving specific problems. Hope u find them interesting. 
+So in response I listed some of my works and toy projects here, open-sourced them on [github][github], and wrote an intro for each project to discuss the motivation and tech that I've chosen. It shows what I am working on, why I did that, and the technical choices that I've made when solving specific problems. Hope u find them interesting. 
 
 May the universe connect us 😉
 
@@ -23,18 +23,19 @@ May the universe connect us 😉
 | [ZERO][ZERO]                         | ![][swift] | iOS + macOS | strategy game |   [![][git-logo]][zero-game]   |
 | [認識佛教][認識佛教]                 |   obj-c    | iOS < v10   | education     | [![][git-logo]][buddhism-objc] |
 
-## web app
+## Web Apps
 
-| app                               |                    tech stack                    | description                                                                                        |
-|:--------------------------------- |:------------------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| [Speech Recognition][voice-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API 🚀 [launch app][launch-recog] | 
+| app                                |                    tech stack                    | description                                                          |            source            |
+|:---------------------------------- |:------------------------------------------------:|:-------------------------------------------------------------------- |:----------------------------:|
+| [Speech Recognition][launch-recog] | [PWA][pwa] + [Alpine.js][alpine] + [UnoCSS][uno] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![][git-logo]][voice-recog] |
 
 ## Chrome Extensions
 
-| extension                                    |  lang   | description                                                                    |
-|:-------------------------------------------- |:-------:|:------------------------------------------------------------------------------ |
-| [mini authenticator][mini-auth]              | ![][ts] | minimal 2FA authenticator that never store your secret keys                    |
-| [Chrome ext creation template][crx-template] | ![][ts] | chrome ext template packed w/ vite, CRXJS, react, tailwind, iconify and more.. | 
+| extension                                    |  lang   | description                                                                    |              source               |
+|:-------------------------------------------- |:-------:|:------------------------------------------------------------------------------ |:---------------------------------:|
+| [Mini Authenticator][mini-auth-dl]           | ![][ts] | minimal 2FA authenticator that never store your secret keys                    |    [![][git-logo]][mini-auth]     |
+| [Multilingual Voice Search][voice-search-dl] | ![][js] | Google voice search in languages different from your OS and location settings  | [![][git-logo]][voice-search-crx] |
+| [Chrome ext creation template][crx-template] | ![][ts] | chrome ext template packed w/ vite, CRXJS, react, tailwind, iconify and more.. |                                   |
 
 ## Utilities
 
@@ -48,9 +49,9 @@ May the universe connect us 😉
 
 ## NPM Packages
 
-| packages                    |  lang   | description                            |
-|:--------------------------- |:-------:|:-------------------------------------- |
-| [TOTP Generator][totp-auth] | ![][ts] | time-based one-time-password generator |
+| packages                        |  lang   | description                            |           source           |
+|:------------------------------- |:-------:|:-------------------------------------- |:--------------------------:|
+| [TOTP Generator][totp-auth-npm] | ![][ts] | time-based one-time-password generator | [![][git-logo]][totp-auth] | 
 
 ## Legacy Projects
 
@@ -64,7 +65,9 @@ May the universe connect us 😉
 
 - [![][twitter] - ping me on twitter][tw-shing]
 - [![][docusaurus] - my blog][blog-shing]
+- [![][git-logo] - open source projects][github]
 
+[github]: https://github.com/hoishing
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
@@ -73,7 +76,6 @@ May the universe connect us 😉
 [coffee]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
 [docusaurus]: https://api.iconify.design/logos/docusaurus.svg?width=20
-[gh]: https://api.iconify.design/ri/github-fill.svg?color=%23e950c1&width=26
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
@@ -82,8 +84,6 @@ May the universe connect us 😉
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
 [認識佛教]: https://apps.apple.com/hk/app/%E8%AA%8D%E8%AD%98%E4%BD%9B%E6%95%99-%E6%9C%89%E8%81%B2%E6%9B%B8/id389971161
 [ios-apps]: https://apps.apple.com/hk/developer/fbm/id371152397
-[mac-easy-dict]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id1242356475
-[mac-homophone]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8-chinese-helper/id946346429
 [cangjie-ipynb]: https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb
 [pb-ipynb]: https://mybinder.org/v2/gh/hoishing/playbook2md/HEAD?labpath=playbook.ipynb
 [cangjie]: https://github.com/hoishing/cangjie
@@ -92,6 +92,7 @@ May the universe connect us 😉
 [crx-template]: https://github.com/hoishing/template-chrome-ext
 [cell-nav]: https://github.com/hoishing/cell-navigation
 [totp-auth]: https://github.com/hoishing/totp-auth
+[totp-auth-npm]: https://www.npmjs.com/package/totp-auth
 [pb2md]: https://github.com/hoishing/playbook2md
 [gdata-lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [ruby-ssg]: https://github.com/hoishing/ruby-SSG
@@ -110,4 +111,8 @@ May the universe connect us 😉
 [pytesseract]: https://github.com/madmaze/pytesseract
 [selenium]: https://selenium-python.readthedocs.io
 [selenium-crawler]: https://github.com/hoishing/selenium-crawler
+[voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
+[voice-search-dl]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
+[mini-auth-dl]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
+
 
