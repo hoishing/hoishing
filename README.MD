@@ -46,6 +46,7 @@ May the universe connect us 😉
 | [Selenium Crawler][selenium-crawler]       |           ![][py]            | web crawler by [Selenium][selenium], captcha resolved by [Tesseract OCR][pytesseract] |
 | [Google Playbook Annotations to MD][pb2md] |   [![][binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files           |
 | [Markdown to Dash Docset][md2dash]         |           ![][py]            | convert md to HTML files that can be used for generating Dash docset                  |
+| [Raycast Scripts][raycast-scripts]         |          ![][bash]           | quickly open current Finder directory in specific app with [Raycast][raycast]         | 
 
 ## NPM Packages
 
@@ -71,6 +72,7 @@ May the universe connect us 😉
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
+[bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [ruby]: https://api.iconify.design/logos/ruby.svg?width=20
 [coffee]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
@@ -114,5 +116,5 @@ May the universe connect us 😉
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [voice-search-dl]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [mini-auth-dl]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
-
-
+[raycast-scripts]: https://github.com/hoishing/raycast-scripts
+[raycast]: https://www.raycast.com
