@@ -36,10 +36,11 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 - well documented and tested python packages published to PyPi
 
-| package     | lang  | description                       |             repo             |
-|:----------- |:-----:|:--------------------------------- |:----------------------------:|
-| [Pipable]   | ![py] | pipe operation in python          |  [![git-logo]][pipable-git]  |
-| [kTemplate] | ![py] | a minimalist python html template | [![git-logo]][ktemplate-git] |
+| package           | lang  | description                                    |              repo              |
+|:----------------- |:-----:|:---------------------------------------------- |:------------------------------:|
+| [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
+| [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
+| [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] | 
 
 ## NPM Packages
 
@@ -51,7 +52,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 | app                                 |         lang / run          | description                                                                 |
 |:----------------------------------- |:---------------------------:|:--------------------------------------------------------------------------- |
-| [Icon Resize CLI]                   |            ![py]            | CLI to create lossless icons in multiple sizes                              |
 | [Personalize CangJie IME]           | [![binder]][cangjie-ipynb]  | generate custom char set for 倉頡 IME in Windows                            |
 | [Selenium Crawler]                  | [![binder]][selenium-ipynb] | web crawler by [Selenium], captcha resolved by [Tesseract OCR]              |
 | [Google Playbook Annotations to MD] |    [![binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
@@ -107,7 +107,8 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
-[Icon Resize CLI]: https://github.com/hoishing/icon-resize-cli
+[Icon Resize CLI]: https://pypi.org/project/icon-resize
+[icon-resize-git]: https://github.com/hoishing/icon-resize-cli
 [unocss]: https://github.com/unocss/unocss
 [alpine.js]: https://alpinejs.dev
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
