@@ -40,7 +40,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 |:----------------- |:-----:|:---------------------------------------------- |:------------------------------:|
 | [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
-| [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] | 
+| [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
 
 ## NPM Packages
 
@@ -59,13 +59,12 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Legacy Projects
 
-| project                           |       lang       | description                                                          |
-|:--------------------------------- |:----------------:|:-------------------------------------------------------------------- |
-| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
-| [Markdown to Dash Docset]         |      ![py]       | convert md to HTML files that can be used for generating Dash docset |
-| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
-| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
-| [Ruby Static Site Generator]      |     ![ruby]      | a simple static site generator                                       |
+| project                           |                lang                 | description                                                          |
+|:--------------------------------- |:-----------------------------------:|:-------------------------------------------------------------------- |
+| [Atom Cell Navigation]            |          ![coffee-script]           | Atom editor extension for fast navigating between jupyter cells      |
+| [Markdown to Dash Docset]         |                ![py]                | convert md to HTML files that can be used for generating Dash docset |
+| [GData iOS Static lib]            |                obj-c                | iOS static library of Google Data APIs                               |
+| [認識佛教 iOS app][buddhism-objc] |                obj-c                | 認識佛教 audio book player for iOS < v10                             |
 
 ## More
 
@@ -79,7 +78,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
-[ruby]: https://api.iconify.design/logos/ruby.svg?width=20
 [coffee-script]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
 [profile-icon]: https://api.iconify.design/carbon/user-profile.svg?color=%23EF476F&width=20
@@ -101,7 +99,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [Google Playbook Annotations to MD]: https://github.com/hoishing/playbook2md
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
-[Ruby Static Site Generator]: https://github.com/hoishing/ruby-SSG
 [tw-shing]: https://twitter.com/hoishing
 [profile]: https://hoishing.github.io/
 [voice-recog]: https://github.com/hoishing/voice-recog
