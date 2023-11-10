@@ -1,4 +1,4 @@
-# 👋 Hi~ Kelvin's Speaking
+# Work Out Loud 🔊
 
 While wandering in a bookstore one day, I stumbled upon a book recommended by Taiwan's IT Minister, [Audrey Tang], which advocated for a work method known as [work out loud].
 
@@ -11,33 +11,32 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 - see all recent published iOS / macOS app [here][iOS apps]
 
 | app                |   lang   | platform    | category      |           repo           |
-|:------------------ |:--------:| ----------- | ------------- |:------------------------:|
+| :----------------- | :------: | ----------- | ------------- | :----------------------: |
 | [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
 | [Video Compressor] | ![swift] | iOS         | utility       |                          |
-| [Easy Dictionary]  | ![swift] | iOS + macOS | education     |                          |
 | [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [同音字典]         | ![swift] | iOS + macOS | education     |                          |
 
 ## Web Apps
 
 | app                  |           tech stack           | description                                                          |            repo            |
-|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
+| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
 | [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## Chrome Extensions
 
-| extension                      | lang  | description                                                                    |                    repo                     |
-|:------------------------------ |:-----:|:------------------------------------------------------------------------------ |:-------------------------------------------:|
-| [Mini Authenticator]           | ![ts] | minimal 2FA authenticator that never store your secret keys                    |          [![git-logo]][mini-auth]           |
-| [Multilingual Voice Search]    | ![js] | Google voice search in languages different from your OS and location settings  |       [![git-logo]][voice-search-crx]       |
-| [Chrome ext creation template] | ![ts] | chrome ext template packed w/ vite, CRXJS, react, tailwind, iconify and more.. | [![git-logo]][Chrome ext creation template] |
+| extension                   | lang  | description                                                                   |                     repo                      |
+| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-------------------------------------------: |
+| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
+| [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
+| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
 
 ## Python Packages
 
 - well documented and tested python packages published to PyPi
 
 | package           | lang  | description                                    |              repo              |
-|:----------------- |:-----:|:---------------------------------------------- |:------------------------------:|
+| :---------------- | :---: | :--------------------------------------------- | :----------------------------: |
 | [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
 | [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
@@ -45,33 +44,38 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 ## NPM Packages
 
 | packages         | lang  | description                            |           repo           |
-|:---------------- |:-----:|:-------------------------------------- |:------------------------:|
+| :--------------- | :---: | :------------------------------------- | :----------------------: |
 | [TOTP Generator] | ![ts] | time-based one-time-password generator | [![git-logo]][totp-auth] |
 
 ## Utilities
 
-| app                                 |         lang / run          | description                                                                 |
-|:----------------------------------- |:---------------------------:|:--------------------------------------------------------------------------- |
-| [Personalize CangJie IME]           | [![binder]][cangjie-ipynb]  | generate custom char set for 倉頡 IME in Windows                            |
-| [Selenium Crawler]                  | [![binder]][selenium-ipynb] | web crawler by [Selenium], captcha resolved by [Tesseract OCR]              |
-| [Google Playbook Annotations to MD] |    [![binder]][pb-ipynb]    | convert playbook annotations(highlights and custom notes) to markdown files |
-| [Raycast Scripts]                   |           ![bash]           | quickly open current Finder directory in specific app with [Raycast]        |
+| app                       |            lang / run             | description                                                            |
+| :------------------------ | :-------------------------------: | :--------------------------------------------------------------------- |
+| [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                   |
+| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                              |
+| [Raycast Scripts]         |              ![bash]              | [WebP] converter, quick open vscode/terminal in current folder ... etc |
+| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                       |
+| [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]         |
 
 ## Legacy Projects
 
-| project                           |                lang                 | description                                                          |
-|:--------------------------------- |:-----------------------------------:|:-------------------------------------------------------------------- |
-| [Atom Cell Navigation]            |          ![coffee-script]           | Atom editor extension for fast navigating between jupyter cells      |
-| [Markdown to Dash Docset]         |                ![py]                | convert md to HTML files that can be used for generating Dash docset |
-| [GData iOS Static lib]            |                obj-c                | iOS static library of Google Data APIs                               |
-| [認識佛教 iOS app][buddhism-objc] |                obj-c                | 認識佛教 audio book player for iOS < v10                             |
+| project                           |       lang       | description                                                          |
+| :-------------------------------- | :--------------: | :------------------------------------------------------------------- |
+| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
+| [Markdown to Dash Docset]         |      ![py]       | convert md to HTML files that can be used for generating Dash docset |
+| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
+| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
 
 ## More
 
 - [ping me on twitter ![twitter]][tw-shing]
-- [my portfolio ![profile-icon]][profile]
-- [open source projects ![git-logo]][github]
+- [my profile site ![profile-icon]][profile]
+- [tech blogs ![dev-logo]][dev.to]
+- [open source repos ![git-logo]][github]
+- [LinkedIn ![LinkedIn-logo]][LinkedIn]
 
+[LinkedIn-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
+[LinkedIn]: https://www.linkedin.com/in/hoishing
 [github]: https://github.com/hoishing
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -83,21 +87,17 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [profile-icon]: https://api.iconify.design/carbon/user-profile.svg?color=%23EF476F&width=20
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
-[Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
 [iOS apps]: https://apps.apple.com/hk/developer/fbm/id371152397
 [cangjie-ipynb]: https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb
-[pb-ipynb]: https://mybinder.org/v2/gh/hoishing/playbook2md/HEAD?labpath=playbook.ipynb
 [Personalize CangJie IME]: https://github.com/hoishing/cangjie
 [Markdown to Dash Docset]: https://github.com/hoishing/markdown-to-dash-docset
 [mini-auth]: https://github.com/hoishing/mini-authenticator
-[Chrome ext creation template]: https://github.com/hoishing/template-chrome-ext
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [totp-auth]: https://github.com/hoishing/totp-auth
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
-[Google Playbook Annotations to MD]: https://github.com/hoishing/playbook2md
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [tw-shing]: https://twitter.com/hoishing
 [profile]: https://hoishing.github.io/
@@ -111,15 +111,13 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 [Speech Recognition]: https://hoishing.github.io/speech-recog
 [git-logo]: https://api.iconify.design/bi/github.svg?color=%236FD886&width=20
-<!-- [git-logo-grey]: https://api.iconify.design/bi/github.svg?color=%23949494&width=20 -->
 [Tesseract OCR]: https://github.com/madmaze/pytesseract
 [selenium]: https://selenium-python.readthedocs.io
 [Selenium Crawler]: https://github.com/hoishing/selenium-crawler
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
-[Raycast Scripts]: https://github.com/hoishing/raycast-scripts
-[raycast]: https://www.raycast.com
+[Raycast Scripts]: https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
 [Audrey Tang]: https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3
 [work out loud]: https://youtu.be/XpjNl3Z10uc
 [kTemplate]: https://pypi.org/project/ktemplate/
@@ -127,3 +125,13 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [pipable]: https://pypi.org/project/pipable
 [pipable-git]: https://github.com/hoishing/pipable
 [selenium-ipynb]: https://mybinder.org/v2/gh/hoishing/selenium-crawler/HEAD?labpath=selenium-crawler.ipynb
+[colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
+[doc2txt-colab]: https://colab.research.google.com/github/hoishing/doc2txt/blob/main/doc2txt.ipynb
+[doc2txt]: https://github.com/hoishing/doc2txt
+[playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
+[Playwright Crawler]: https://github.com/hoishing/playwright-crawler
+[Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
+[chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
+[WebP]: https://en.wikipedia.org/wiki/WebP
+[dev.to]: https://dev.to/hoishing
+[dev-logo]: https://api.iconify.design/bxl:dev-to.svg?color=%233ca8fb&width=20
