@@ -1,10 +1,6 @@
-# Work Out Loud 🔊
+# Kelvin's Portfolio
 
-While wandering in a bookstore one day, I stumbled upon a book recommended by Taiwan's IT Minister, [Audrey Tang], which advocated for a work method known as [work out loud].
-
-After reading a few pages, I was immediately captivated and inspired. As a result, I took the time to organize my past works and toy projects, open-sourced them on [Github], and documented the motivations and technical stacks that I utilized.
-
-The outcome of this effort can be seen on this website, showcasing my work and interests, their rationale, and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing 😉
+Here showcasing my work and interests, their rationale, and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing 😉
 
 ## Mobile Apps
 
