@@ -1,6 +1,6 @@
 # Kelvin's Portfolio
 
-Here showcasing my work and interests, their rationale, and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing 😉
+Here, I showcase my work and interests, along with their rationale and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing. 😉
 
 ## Mobile Apps
 
