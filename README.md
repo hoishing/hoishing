@@ -1,6 +1,6 @@
 # Kelvin's Portfolio
 
-Here, I showcase my work and interests, along with their rationale and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing. 😉
+Here showcase my work and interests, along with their rationale and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing. 😉
 
 ## Mobile Apps
 
@@ -31,11 +31,11 @@ Here, I showcase my work and interests, along with their rationale and the logic
 
 - well documented and tested python packages published to PyPi
 
-| package           | lang  | description                                    |              repo              |
-| :---------------- | :---: | :--------------------------------------------- | :----------------------------: |
-| [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
-| [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
-| [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
+| package       | lang  | description                                    |              repo              |
+|:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
+| [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
+| [kTemplate]   | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
+| [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
 
 ## NPM Packages
 
@@ -47,7 +47,6 @@ Here, I showcase my work and interests, along with their rationale and the logic
 
 | app                       |              lang / run              | description                                                                                                   |
 |:------------------------- |:------------------------------------:|:------------------------------------------------------------------------------------------------------------- |
-| [doc2txt]                 |    [![colab-logo]][doc2txt-colab]    | extract text from epub, pdf and docx                                                                          |
 | [Playwright Crawler]      |  [![colab-logo]][playwright-colab]   | web scrapping of Taiwan reservoir storage                                                                     |
 | [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script | 
 | [Personalize CangJie IME] |      [![binder]][cangjie-ipynb]      | generate custom char set for 倉頡 IME in Windows                                                              |
@@ -58,7 +57,6 @@ Here, I showcase my work and interests, along with their rationale and the logic
 | project                           |       lang       | description                                                          |
 | :-------------------------------- | :--------------: | :------------------------------------------------------------------- |
 | [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
-| [Markdown to Dash Docset]         |      ![py]       | convert md to HTML files that can be used for generating Dash docset |
 | [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
 | [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
 
@@ -89,7 +87,6 @@ Here, I showcase my work and interests, along with their rationale and the logic
 [iOS apps]: https://apps.apple.com/hk/developer/fbm/id371152397
 [cangjie-ipynb]: https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb
 [Personalize CangJie IME]: https://github.com/hoishing/cangjie
-[Markdown to Dash Docset]: https://github.com/hoishing/markdown-to-dash-docset
 [mini-auth]: https://github.com/hoishing/mini-authenticator
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [totp-auth]: https://github.com/hoishing/totp-auth
@@ -100,7 +97,7 @@ Here, I showcase my work and interests, along with their rationale and the logic
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
-[Icon Resize CLI]: https://pypi.org/project/icon-resize
+[icon-resize]: https://pypi.org/project/icon-resize
 [icon-resize-git]: https://github.com/hoishing/icon-resize-cli
 [unocss]: https://github.com/unocss/unocss
 [alpine.js]: https://alpinejs.dev
@@ -122,8 +119,6 @@ Here, I showcase my work and interests, along with their rationale and the logic
 [pipable-git]: https://github.com/hoishing/pipable
 [selenium-ipynb]: https://mybinder.org/v2/gh/hoishing/selenium-crawler/HEAD?labpath=selenium-crawler.ipynb
 [colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
-[doc2txt-colab]: https://colab.research.google.com/github/hoishing/doc2txt/blob/main/doc2txt.ipynb
-[doc2txt]: https://github.com/hoishing/doc2txt
 [playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
 [Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
