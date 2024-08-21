@@ -40,7 +40,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 ## Web Apps
 
 | app                  |           tech stack           | description                                                          |            repo            |
-| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
+|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
+| [APN Tester]         |         ![py] + ![st]          | A simple tool to test Apple Push Notification Service (APNs)         | [![git-logo]][apn-tester]  |
 | [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## Utilities
@@ -68,6 +69,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [![git-logo] Repos][github]
 
 [alpine.js]: https://alpinejs.dev
+[APN Tester]: https://apn-tester.streamlit.app
+[apn-tester]: https://github.com/hoishing/apn-tester
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
@@ -86,8 +89,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
 [kTemplate-git]: https://github.com/hoishing/kTemplate
 [kTemplate]: https://pypi.org/project/ktemplate/
-[linkedin]: https://www.linkedin.com/in/hoishing
 [linkedin-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
+[linkedin]: https://www.linkedin.com/in/hoishing
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
 [mini-auth]: https://github.com/hoishing/mini-authenticator
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
@@ -100,6 +103,7 @@ Here showcase my work and interests, along with their rationale and the logic be
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [Raycast Scripts]: https://github.com/hoishing/raycast-scripts
 [Speech Recognition]: https://hoishing.github.io/speech-recog
+[st]: https://api.iconify.design/logos/streamlit.svg?width=20
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [totp-auth]: https://github.com/hoishing/totp-auth
