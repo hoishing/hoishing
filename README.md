@@ -4,14 +4,22 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## Mobile Apps
 
-- see all recent published iOS / macOS app in [App Store]
+- all recent published iOS / macOS app in [App Store]
 
 | app                |   lang   | platform    | category      |           repo           |
 | :----------------- | :------: | ----------- | ------------- | :----------------------: |
+| [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
 | [Video Compressor] | ![swift] | iOS         | utility       |                          |
-| [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [同音字典]         | ![swift] | iOS + macOS | education     |                          |
+
+## Web Apps
+
+| app                  |           tech stack           | description                                                          |            repo            |
+|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
+| [APN Tester]         |    ![py] + [![st-logo]][st]    | test Apple Push Notification with ease                               | [![git-logo]][apn-tester]  |
+| [rm-DRM]             |    ![py] + [![st-logo]][st]    | remove DRM of your own ebook in Adobe Digital Edition                | [![git-logo]][rm-drm-git]  |
+| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## Python Packages
 
@@ -24,14 +32,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 | [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [tagit]       | ![py] | HTML/SVG tag generator for minimalist          |    [![git-logo]][tagit-git]    |
 | [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
-
-## Web Apps
-
-| app                  |         tech stack         | description                                                          |            repo            |
-|:-------------------- |:--------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
-| [APN Tester]         |   ![py] [![st-logo]][st]   | test Apple Push Notification with ease                               | [![git-logo]][apn-tester]  |
-| [rm-DRM]             |   ![py] [![st-logo]][st]   | remove DRM of your own ebook in Adobe Digital Edition                | [![git-logo]][rm-drm-git]  |
-| [Speech Recognition] | [PWA] [Alpine.js] [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## NPM Packages
 
