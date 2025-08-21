@@ -2,31 +2,45 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-010?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-010?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-010?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-010?&logo=PostgreSQL)
-![Swift](https://img.shields.io/badge/-Swift-010?&logo=Swift)
-![Kotlin](https://img.shields.io/badge/-Kotlin-010?&logo=Kotlin)
-![Bash](https://img.shields.io/badge/-Bash-010?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-333?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-333?&logo=PostgreSQL)
+![Swift](https://img.shields.io/badge/-Swift-333?&logo=Swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333?&logo=Kotlin)
+![Bash](https://img.shields.io/badge/-Bash-333?&logo=GNU-Bash)
 
 **Favorite Techs**
 
-![Streamlit](https://img.shields.io/badge/-Streamlit-010?&logo=Streamlit)
-![uv](https://img.shields.io/badge/-uv-010?&logo=uv)
-![Git](https://img.shields.io/badge/-Git-010?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-010?&logo=Docker)
-![macOS](https://img.shields.io/badge/-macOS-010?&logo=macOS)
-![Linux](https://img.shields.io/badge/-Linux-010?&logo=Linux)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-010?&logo=Cloudflare)
-![GitHub](https://img.shields.io/badge/-GitHub-010?&logo=GitHub)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?&logo=Streamlit)
+![uv](https://img.shields.io/badge/-uv-333?&logo=uv)
+![Git](https://img.shields.io/badge/-Git-333?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)
+![macOS](https://img.shields.io/badge/-macOS-333?&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-333?&logo=Linux)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333?&logo=Cloudflare)
+![GitHub](https://img.shields.io/badge/-GitHub-333?&logo=GitHub)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-333?&logo=Claude)
+![Gemini Code](https://img.shields.io/badge/-Gemini-333?&logo=googleGemini)
 
 ## Streamlit Apps
 
 | app          | description                                           |            repo             | demo |
 |:------------ |:----------------------------------------------------- |:---------------------------:| :---: |
-| [AstroBro]   | PWA for quick Astrological Chart and Stats            | [![git-logo]][astrobro-git] | [![youtube-logo]][astrobro-demo] |
-| [handy-utils] | Utilities Collection For Daily Life Hacks               |  [![git-logo]][handy-utils-repo]  | [![youtube-logo]][handy-utils-demo] |
+| [AstroBro]   | Full-featured PWA for Astrological Chart and Stats    | [![git-logo]][astrobro-git] | [![youtube-logo]][astrobro-demo] |
+| [handy-utils]| Utilities Collection For Daily Life Hacks             |  [![git-logo]][handy-utils-repo]  | [![youtube-logo]][handy-utils-demo] |
+| [aiyt]       | Transcribe, Chat and Summarize Youtube Video with AI  |  [![git-logo]][aiyt-git]  | [![youtube-logo]][aiyt-demo] |
+
+## Mobile Apps
+
+All recent published iOS / macOS app in [App Store]
+
+| app                |   lang   | platform    | category      |           repo           | demo |
+|:------------------ |:--------:| ----------- | ------------- |:------------------------:| :---: |
+| [英漢字典]         | ![swift] | iOS         | education     |                          |  |
+| [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] | [![youtube-logo]][zero-demo] |
+| [Video Compressor] | ![swift] | iOS         | utility       |                          |  |
+| [同音字典]         | ![swift] | iOS + macOS | education     |                          |  |
 
 ## Streamlit Custom Components
 
@@ -34,26 +48,15 @@
 |:-------------------------- |:----------------------------------------------------------------------- |:----------------------------:|
 | [st-scweenwidth-detector]  | get current screen width and trigger app rerun when screen size changes | [![git-logo]][st-screen-git] |
 
-## Mobile Apps
-
-- all recent published iOS / macOS app in [App Store]
-
-| app                |   lang   | platform    | category      |           repo           |
-|:------------------ |:--------:| ----------- | ------------- |:------------------------:|
-| [英漢字典]         | ![swift] | iOS         | education     |                          |
-| [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
-| [Video Compressor] | ![swift] | iOS         | utility       |                          |
-| [同音字典]         | ![swift] | iOS + macOS | education     |                          |
-
 ## Python Packages
 
-- well documented and tested python packages published in PyPi
+Python packages published in PyPi
 
 | package       | lang  | description                                                                                       |              repo              |
 | :------------ | :---: | :------------------------------------------------------------------------------------------------ | :----------------------------: |
 | [natal]       | ![py] | create Natal Chart with ease                                                                      |    [![git-logo]][natal-git]    |
 | [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags                                                          |    [![git-logo]][ptag-git]     |
-| [gllm]        | ![py] | A CLI tool that uses [Groq] LLM to generate terminal commands from natural language descriptions. |    [![git-logo]][gllm-git]     |
+| [gllm]        | ![py] | Generate Terminal Commands from Natural Language with Gemini |    [![git-logo]][gllm-git]     |
 | [Pipable]     | ![py] | pipe operation in python                                                                          |   [![git-logo]][pipable-git]   |
 | [tagit]       | ![py] | HTML/SVG tag generator for minimalist                                                             |    [![git-logo]][tagit-git]    |
 
@@ -84,6 +87,9 @@
 
 [![git-logo] Repos][github]
 
+[aiyt-git]: https://github.com/hoishing/aiyt
+[aiyt]: https://pypi.org/project/aiyt/
+[aiyt-demo]: https://www.youtube.com/watch?v=RMkSsaQzM64
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
 [astrobro-demo]: https://www.youtube.com/watch?v=EiYYA4mysoQ
 [astrobro-git]: https://github.com/hoishing/astrobro
@@ -125,5 +131,6 @@
 [youtube-logo]: https://api.iconify.design/bi:youtube.svg?color=%23ff4242&width=20
 [zero-game]: https://github.com/hoishing/zero-game
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
+[zero-demo]: https://www.youtube.com/watch?v=w9o-ijtwV38
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
