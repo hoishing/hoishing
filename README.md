@@ -2,26 +2,26 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-333?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-333?&logo=PostgreSQL)
-![Swift](https://img.shields.io/badge/-Swift-333?&logo=Swift)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333?&logo=Kotlin)
-![Bash](https://img.shields.io/badge/-Bash-333?&logo=GNU-Bash)
+<picture><source srcset="https://img.shields.io/badge/-Python-333?logo=Python" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Python-f0f0f0?logo=Python" alt="Python"></picture>
+<picture><source srcset="https://img.shields.io/badge/-JavaScript-333?logo=JavaScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-JavaScript-f0f0f0?logo=JavaScript" alt="JavaScript"></picture>
+<picture><source srcset="https://img.shields.io/badge/-TypeScript-333?logo=TypeScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-TypeScript-f0f0f0?logo=TypeScript" alt="TypeScript"></picture>
+<picture><source srcset="https://img.shields.io/badge/-SQL-333?logo=PostgreSQL" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-SQL-f0f0f0?logo=PostgreSQL" alt="SQL"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Swift-333?logo=Swift" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Swift-f0f0f0?logo=Swift" alt="Swift"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Kotlin-333?logo=Kotlin" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Kotlin-f0f0f0?logo=Kotlin" alt="Kotlin"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Bash-333?logo=GNU-Bash" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Bash-f0f0f0?logo=GNU-Bash" alt="Bash"></picture>
 
 **Favorite Techs**
 
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?&logo=Streamlit)
-![uv](https://img.shields.io/badge/-uv-333?&logo=uv)
-![Git](https://img.shields.io/badge/-Git-333?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)
-![macOS](https://img.shields.io/badge/-macOS-333?&logo=apple)
-![Linux](https://img.shields.io/badge/-Linux-333?&logo=Linux)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333?&logo=Cloudflare)
-![GitHub](https://img.shields.io/badge/-GitHub-333?&logo=GitHub)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-333?&logo=Claude)
-![Gemini Code](https://img.shields.io/badge/-Gemini-333?&logo=googleGemini)
+<picture><source srcset="https://img.shields.io/badge/-Streamlit-333?logo=Streamlit" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Streamlit-f0f0f0?logo=Streamlit" alt="Streamlit"></picture>
+<picture><source srcset="https://img.shields.io/badge/-uv-333?logo=uv" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-uv-f0f0f0?logo=uv" alt="uv"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Git-333?logo=Git" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Git-f0f0f0?logo=Git" alt="Git"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Docker-333?logo=Docker" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Docker-f0f0f0?logo=Docker" alt="Docker"></picture>
+<picture><source srcset="https://img.shields.io/badge/-macOS-333?logo=apple" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-macOS-f0f0f0?logo=apple" alt="macOS"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Linux-333?logo=Linux" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Linux-f0f0f0?logo=Linux" alt="Linux"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Cloudflare-333?logo=Cloudflare" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Cloudflare-f0f0f0?logo=Cloudflare" alt="Cloudflare"></picture>
+<picture><source srcset="https://img.shields.io/badge/-GitHub-333?logo=GitHub" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-GitHub-f0f0f0?logo=GitHub" alt="GitHub"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Claude_Code-333?logo=Claude" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Claude_Code-f0f0f0?logo=Claude" alt="Claude Code"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Gemini-333?logo=googleGemini" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Gemini-f0f0f0?logo=googleGemini" alt="Gemini Code"></picture>
 
 ## Streamlit Apps
 
